@@ -1,0 +1,22 @@
+{
+   "photos":{
+      "page":1,
+      "pages":34,
+      "perpage":10,
+      "total":"335",
+      "photo":[
+         {
+            "id":"52290008911",
+            "owner":"72604269@N07",
+            "secret":"cbf929ddd4",
+            "server":"65535",
+            "farm":66,
+            "title":"DSC08178",
+            "ispublic":1,
+            "isfriend":0,
+            "isfamily":0
+         }
+      ]
+   },
+   "stat":"ok"
+}
